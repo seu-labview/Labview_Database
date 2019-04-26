@@ -2,7 +2,7 @@
 
 ##  项目简介
 
-本项目希望实现一个数据库，来存储*东南大学Labview俱乐部*的各种数据，包括：*俱乐部资产登记表*，*会员登记表*，*事件记录表*和杂项。
+本项目希望实现一个数据库，来存储*东南大学Labview俱乐部*的各种数据，包括：[资产登记表](#资产登记表)，[会员登记表](#会员登记表)，[事件记录表](#事件记录表)和杂项。
 
 [![License: GPL](https://img.shields.io/github/license/seu-labview/Labview_Database.svg)](LICENSE)  ![](https://img.shields.io/github/stars/seu-labview/Labview_Database.svg?style=social)
 
@@ -23,7 +23,7 @@
 
 ##  数据库内容
 
-### 资产表
+### 资产登记表
 
 1.  名称
 2.  存放位置
@@ -36,6 +36,12 @@
 9.  备注
 10. 物品ID
 11. 总ID
+
+### 会员登记表
+
+未完待续
+
+### 事件记录表
 
 未完待续
 
