@@ -4,7 +4,9 @@
 
 本项目希望实现一个数据库，来存储*东南大学Labview俱乐部*的各种数据，包括：[资产登记表](#资产登记表)，[会员登记表](#会员登记表)，[事件记录表](#事件记录表)和杂项。
 
-[![License: GPL](https://img.shields.io/github/license/seu-labview/Labview_Database.svg)](LICENSE)  ![](https://img.shields.io/github/stars/seu-labview/Labview_Database.svg?style=social)
+[![License: GPL](https://img.shields.io/github/license/seu-labview/Labview_Database.svg)](LICENSE)
+![](https://img.shields.io/github/stars/seu-labview/Labview_Database.svg?style=social)
+![](http://progressed.io/bar/1?title=progress)
 
 ##  项目目标
 
