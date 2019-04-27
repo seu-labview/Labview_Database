@@ -51,7 +51,7 @@
 
 *东南大学LabVIEW俱乐部* 是 *[东南大学](https://www.seu.edu.cn)* 与 *[NI公司](https://www.ni.com)* 合作开办的学术实践类社团，以LabVIEW语言培训为主，以技术交流共享为辅，希望构建便捷的学习图形化编程语言的渠道，以及为学生提供学习、竞赛、交流的技术平台。
 
-[微信公众号](https://mp.weixin.qq.com/profile?src=3&timestamp=1556297158&ver=1&signature=Z-vXwgwAm0CKsD4JJIpr*U4JVo94HsVPifIkl3WxUzxTVN-H9o2vu7vSC5Y9FmPeUleZ-HnYAdTzPgR6hBbRqw==)
+[微信公众号](http://mp.weixin.qq.com/mp/homepage?__biz=MzU2MzcwNTE4Ng==&hid=1&sn=28b3c683ca78cfb80f0766ab8a1386f8&scene=18#wechat_redirect)
 
 ![](https://mp.weixin.qq.com/rr?timestamp=1556297163&src=3&ver=1&signature=rZBRsm39F9N8LlLIOqiVWrs57LEB7QhSdvMUnxWnXokl0pfNJllOWp1hpU0mIcrJvrmFpFYg*f2jRCC2dDO899g-O63wXpsA5Z91*ojwkU8=)
 
